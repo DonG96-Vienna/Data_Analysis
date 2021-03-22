@@ -1,2 +1,2 @@
 # Data_Analysis_Python
-Data Analysis using Python and its libraries (pandas, matplotlib etc)
+Daten Analyse mit Python und Python Modulen (pandas, matplotlib etc)
